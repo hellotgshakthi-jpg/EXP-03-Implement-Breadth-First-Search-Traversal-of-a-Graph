@@ -1,10 +1,6 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 Breadth First Search Traversal of a Graph
 
-Name: Anto Aakash MAnto Aakash M
-
-Register number:212224030003
-
 AIM: 
 Theory: 
 To Implement Breadth First Search Traversal of a Graph using Python 3. 
